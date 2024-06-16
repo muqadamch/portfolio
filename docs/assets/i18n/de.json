@@ -1,0 +1,52 @@
+{
+  "Header.Item1": "Über mich",
+  "Header.Item2": "Erfahrung",
+  "Header.Item3": "Kontakt",
+  "Header.cvBtn": "Lebenslauf",
+  "Header.cvName": "CV_Armughan_Ahmed.pdf",
+
+  "Banner.Pretitle": "Hallo! Mein Name ist",
+  "Banner.Description": "Ich bin ein Full Stack Entwickler mit Erfahrung in <br/><span class='underline'>Ruby</span>, <span class='underline'>Python</span>, <span class='underline'>JavaScript</span>, <span class='underline'>React</span>, <span class='underline'>AWS</span>, <span class='underline'>Heroku</span> und <span class='underline'>Datenbanken</span>.<br/><br/>Ich habe die Entwicklung mehrerer Projekte im Wert von über <span class='underline'>$80.000 tausend</span> geleitet.<br/><br/> Ich bin ein hoch motivierter Softwareingenieur mit Erfahrung in der Entwicklung, Gestaltung und Wartung hochwertiger Software.",
+  "Banner.ActionBtn": "Kontaktieren Sie mich",
+
+  "AboutMe.Title": "Über mich",
+  "AboutMe.Paragraphs": [
+    "Mit Erfahrung in der Full-Stack-Entwicklung habe ich zu zahlreichen Projekten beigetragen, die insgesamt einen Wert von über <span class='underline'>80.000 tausend Dollar</span> haben.",
+    "Ich bin ein leidenschaftlicher Softwareingenieur, der sich der Erstellung außergewöhnlicher Benutzererlebnis-Anwendungen widmet, indem er Geschäftsanforderungen gründlich versteht und effektiv mit funktionsübergreifenden Teams zusammenarbeitet. Mein Fokus liegt darauf, durch innovative und benutzerzentrierte Softwarelösungen Geschäftserfolg zu erzielen.",
+    "Ich habe Erfahrung in der Anwendungsentwicklung und dem Infrastrukturmanagement mit einem Schwerpunkt auf der Erstellung wartbarer und leicht verständlicher Codes. Ich besitze ein starkes Verständnis der Prinzipien des Software-Engineerings."
+  ],
+
+  "Experience.Title": "Erfahrung",
+  "Experience.Jobs": [
+    {
+      "Tab": "Viral Square",
+      "Title": "Softwareingenieur",
+      "Date": "Juni 2022 - Februar 2024",
+      "Link": "https://www.systemsltd.com/",
+      "Location": "Karachi, Pakistan",
+      "Skills": [
+        "Ruby on Rails",
+        "JavaScript",
+        "Python",
+        "React",
+        "NodeJS",
+        "PostgreSQL",
+        "Redis",
+        "Rspec",
+        "Jtest"
+      ],
+      "Description": [
+        "Verbesserte Leistung und Skalierbarkeit durch Entwurf und Entwicklung optimierter Datenbankschemata, die die Effizienz von Anwendungen steigerten.",
+        "Entwickelte komplette Websites von der UI-Design bis zur Live-Bereitstellung, um ein nahtloses Benutzererlebnis und eine robuste Funktionalität zu gewährleisten.",
+        "Steigerte die Systemleistung und die Benutzerzufriedenheit durch die Zusammenarbeit mit funktionsübergreifenden Teams, um innovative Funktionen zu integrieren und bestehende zu verfeinern.",
+        "Nutzte Versionskontrollsysteme effektiv zur Verwaltung von Code-Updates und zur Zusammenarbeit mit Teammitgliedern, um eine nahtlose Integration und Projektkontinuität zu gewährleisten, und nahm an Code-Review-Meetings teil, um die Codequalität zu optimieren und zu verbessern.",
+        "Reduzierte Fehler um 30% durch Implementierung automatisierter Tests, die die Zuverlässigkeit und Stabilität der Anwendung sicherstellen."
+      ]
+    }
+  ],
+
+  "Contact.Pretitle": "Was kommt als Nächstes",
+  "Contact.Title": "Kontaktieren Sie mich!",
+  "Contact.Content": "Ich würde mich freuen, von Ihnen zu hören! Ob Sie Fragen, Ideen oder Möglichkeiten zur Diskussion haben, ich bin hier, um zu helfen. Melden Sie sich noch heute, und ich werde so schnell wie möglich antworten. Lassen Sie uns in Kontakt treten und gemeinsam etwas Großartiges schaffen!",
+  "Contact.Btn": "Sagen Sie Hallo"
+}
