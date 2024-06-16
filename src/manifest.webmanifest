@@ -1,0 +1,17 @@
+{
+  "name": "muqadamchaudhry-portfolio",
+  "short_name": "muqadamchaudhry-portfolio",
+  "theme_color": "#53d4ba",
+  "background_color": "#0a192f",
+  "display": "standalone",
+  "orientation": "",
+  "scope": "/",
+  "start_url": "./",
+  "icons": [
+    {
+      "src": "assets/icons/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
